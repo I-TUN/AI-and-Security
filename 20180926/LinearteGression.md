@@ -68,7 +68,7 @@ python2 abc.py
 ```
 
 
-###  使用線性迴歸分析模型預測:用氣溫來預測冰紅茶的銷售量
+#  使用線性迴歸分析模型預測:用氣溫來預測冰紅茶的銷售量
 
 https://github.com/yaojenkuo/learn_python_for_a_r_user/blob/master/day21.md
 
@@ -119,7 +119,8 @@ plt.show()
 
 ```
 
-### 線性迴歸模型的績效:使用線性迴歸模型的績效（Performance|**Mean squared error（MSE）**與 R-squared
+# 線性迴歸模型的績效
+- 使用線性迴歸模型的績效（Performance|**Mean squared error（MSE）**與 R-squared
 ```
 import numpy as np
 from sklearn.linear_model import LinearRegression
