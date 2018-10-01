@@ -32,7 +32,7 @@ python2 abc.py
   File "abc.py", line 4
 SyntaxError: Non-ASCII character '\xe8' in file abc.py on line 4, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
 ```
-錯誤更正==>加入頭兩欄
+在最上面新增語系宣告
 
 ```
 #!/usr/bin/python
