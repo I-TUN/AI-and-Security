@@ -1,4 +1,4 @@
-##TensorFlow_Code/chapter1
+## TensorFlow_Code/chapter1
 ```
 #first_session_only_tensorflow.py
 
@@ -24,7 +24,7 @@ Use `tf.global_variables_initializer` instead.
 2018-10-03 10:21:42.981660: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
 10
 ***
-##執行 python first2.py
+## 執行 python first2.py
 ```
 #first_session_only_tensorflow.py
 
